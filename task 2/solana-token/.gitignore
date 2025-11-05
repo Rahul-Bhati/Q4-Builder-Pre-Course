@@ -1,0 +1,3 @@
+# all node_modules folder inside any folder
+node_modules/
+guideSecret.json
