@@ -1,0 +1,30 @@
+{
+    "name": "LLyod Frontera",
+    "symbol": "LF",
+    "description": "Task-3: Lloyd is water, water is good , lloyd is good 😏",
+    "image": "https://copper-delicate-viper-215.mypinata.cloud/ipfs/bafkreifuqvq4gahap7wijsdawyxg4h6jype6j77d7pxx6kf5tgzi3djm3e",
+    "showName": true,
+    "attributes": [
+        {
+            "trait_type": "BUILD",
+            "value": "BUILD"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://copper-delicate-viper-215.mypinata.cloud/ipfs/bafkreifuqvq4gahap7wijsdawyxg4h6jype6j77d7pxx6kf5tgzi3djm3e"
+            }
+        ]
+    },
+    "creators": [
+        "rahul bhati",
+        "Discord: rahulbhati",
+        "agency: https://app4sure.vercel.app/",
+        "portfolio: https://rahul-bhati.github.io/",
+        "github: https://github.com/Rahul-Bhati",
+        "linkedin: https://www.linkedin.com/in/rahul-bhati-25482a1a0/",
+        "resume: https://drive.google.com/file/d/1nLb3W7G4E1Xap0V_Ehjv7_G0p-0Uj-l3/view?usp=sharing "
+    ]
+}

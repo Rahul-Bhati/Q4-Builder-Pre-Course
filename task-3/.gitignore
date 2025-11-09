@@ -1,0 +1,4 @@
+# all node_modules folder inside any folder
+node_modules/
+
+wallet.json
